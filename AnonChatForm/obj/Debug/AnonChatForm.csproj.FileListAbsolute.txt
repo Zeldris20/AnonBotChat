@@ -1,0 +1,10 @@
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\bin\Debug\AnonChatForm.exe.config
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\bin\Debug\AnonChatForm.exe
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\bin\Debug\AnonChatForm.pdb
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\obj\Debug\AnonChatForm.csproj.AssemblyReference.cache
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\obj\Debug\AnonChatForm.Form1.resources
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\obj\Debug\AnonChatForm.Properties.Resources.resources
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\obj\Debug\AnonChatForm.csproj.GenerateResource.cache
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\obj\Debug\AnonChatForm.csproj.CoreCompileInputs.cache
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\obj\Debug\AnonChatForm.exe
+C:\Users\Zeldris\source\repos\AnonChatForm\AnonChatForm\obj\Debug\AnonChatForm.pdb
